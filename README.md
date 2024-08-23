@@ -10,4 +10,4 @@ Estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Victor_Aaugusto&repo=contabilidade-lg&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Augusto&repo=Contabilidade-LG)](https://github.com/anuraghazra/github-readme-stats)
