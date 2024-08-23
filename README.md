@@ -10,7 +10,7 @@ Estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Victor-Augusto&repo=aluraPlus&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=Victor-Augusto&repo=fokus&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
