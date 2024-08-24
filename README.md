@@ -20,7 +20,7 @@ Estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi
 
 ## Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Aaugusto&repo=fokus)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victor-Aaugusto&repo=Numero-Secreto)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos:
 
