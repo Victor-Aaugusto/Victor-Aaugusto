@@ -9,9 +9,9 @@ Estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi
 ### Projetos
 
 <div>
-<a href="https://github.com/Victor-Augusto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Augusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Augusto&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/Victor-Aaugusto">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Aaugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Aaugusto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Ferramentas e Tecnologias
@@ -21,5 +21,5 @@ Estudante de análise e desenvolvimento de sistemas pela Anhembi Morumbi
 ## Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/victor-augusto-9592b8251" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/linkedin.com/in/https://www.linkedin.com/in/victor-augusto-9592b8251/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
